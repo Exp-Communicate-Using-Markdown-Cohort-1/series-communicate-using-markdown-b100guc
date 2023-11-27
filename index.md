@@ -53,6 +53,9 @@ print(f"SHA-256 Hash: {hashed_result}")
 
 ```
 
+- [ ] Wake up early
+- [x] Make a coffee
+- [ ] get ready for the meeting
 
 
 
