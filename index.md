@@ -27,6 +27,48 @@ Many blockchains, especially the first and most well-known one, Bitcoin, use...
 ![Image of 100GUC Twitter Profile](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-b100guc/assets/151607558/af288463-4dd7-42d4-af02-7aa3dd846ca5)
 
 
+### Here's a simple example of how you might implement SHA-256 hashing in Python.
+
+```
+import hashlib
+
+def sha256_hash(data):
+    # Create a new SHA-256 hash object
+    sha256 = hashlib.sha256()
+
+    # Update the hash object with the bytes-like object (data)
+    sha256.update(data)
+
+    # Get the hexadecimal representation of the hash
+    hashed_data = sha256.hexdigest()
+
+    return hashed_data
+
+# Example usage
+data_to_hash = b"Hello, World!"  # Note: Bytes-like object
+hashed_result = sha256_hash(data_to_hash)
+
+print(f"Original Data: {data_to_hash.decode('utf-8')}")
+print(f"SHA-256 Hash: {hashed_result}")
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
