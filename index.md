@@ -22,5 +22,13 @@ In addition to recording simple transactions, blockchain ledgers can also...
 ##### Cryptocurrencies:
 Many blockchains, especially the first and most well-known one, Bitcoin, use...
 
+![Image of 100GUC Twitter Profile](https://pbs.twimg.com/profile_images/1636450589394477064/dPQ1RKp1_400x400.jpg)
+
+![Image of 100GUC Twitter Profile](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-b100guc/assets/151607558/af288463-4dd7-42d4-af02-7aa3dd846ca5)
+
+
+
+
+
 
 
